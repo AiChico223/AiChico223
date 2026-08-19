@@ -1,77 +1,63 @@
-# 👋 Hi, I'm Micheal Moore
+# Micheal Moore
 
-## 🛡️ Aspiring SOC Analyst | Cybersecurity | Threat Detection | Incident Response
+Aspiring SOC Analyst with a background in Information Technology and hands-on cybersecurity training.
 
-I am an Information Technology student and CompTIA Security+ certified professional building hands-on experience in Security Operations Center (SOC) analysis.
+I am currently building practical SOC skills through labs, TryHackMe, Security+ continuing education, and independent projects focused on threat detection, log analysis, incident response, and SIEM tools.
 
-My current focus is developing practical skills in:
+## What I'm Working On
 
-* 🔎 Security alert investigation and triage
-* 📊 SIEM monitoring and log analysis
-* 🧠 Threat intelligence and IOC analysis
-* 🎯 MITRE ATT&CK mapping
-* 🚨 Incident response and escalation
-* 🪟 Windows Event Log and Sysmon analysis
-* 🐧 Linux security monitoring
-* 📧 Phishing email investigation
-* 🛡️ Endpoint detection and response
+* SOC alert investigation
+* Windows and Linux log analysis
+* SIEM monitoring
+* Phishing analysis
+* Threat intelligence
+* MITRE ATT&CK mapping
+* Incident response
 
----
+## Tools I'm Learning
 
-## 🔧 Security Tools & Platforms
+Wazuh
+Splunk
+Wireshark
+Sysmon
+Windows Event Viewer
+VirusTotal
+MITRE ATT&CK
+Linux
+PowerShell
 
-* Wazuh
-* Splunk
-* Wireshark
-* VirusTotal
-* Sysmon
-* Windows Event Viewer
-* MITRE ATT&CK
-* TryHackMe
-* Linux
-* PowerShell
+## SOC Projects
 
----
+### Wazuh SOC Home Lab
 
-## 🚀 SOC Analyst Portfolio Projects
+Building a small SOC environment using Wazuh to monitor endpoints, review alerts, and investigate suspicious activity.
 
-### 1. Wazuh SOC Home Lab
+### Brute Force Investigation
 
-Building a simulated Security Operations Center environment to monitor Windows and Linux endpoints, analyze security alerts, and investigate suspicious activity.
+Analyzing failed login activity and authentication logs to identify possible brute-force attempts and account compromise.
 
-### 2. Brute-Force Attack Investigation
+### Phishing Email Investigation
 
-Investigating authentication attacks through Windows security logs and SIEM alerts while identifying suspicious login patterns and potential account compromise.
+Reviewing email headers, URLs, domains, IP addresses, and file hashes to determine whether an email is malicious.
 
-### 3. Phishing Email Investigation
+### Splunk Detection Lab
 
-Analyzing suspicious emails, headers, URLs, domains, IP addresses, file hashes, and other indicators of compromise.
+Creating SPL searches to detect suspicious activity such as failed logins, PowerShell execution, and account changes.
 
-### 4. Splunk SOC Detection Lab
+### SOC Incident Response Case Study
 
-Creating SPL searches and detections for suspicious authentication activity, PowerShell execution, account creation, privilege escalation, and malicious processes.
+Documenting a simulated security incident from detection through investigation, containment, and recovery.
 
-### 5. SOC Incident Response Case Study
-
-Performing a full investigation of a simulated cyberattack from initial access through containment, eradication, and recovery.
-
----
-
-## 📚 Current Cybersecurity Training
+## Current Training
 
 * TryHackMe SOC Analyst Level 1
 * CompTIA Security+ Continuing Education
 * SIEM and Log Analysis
 * Incident Response
 * Threat Intelligence
-* MITRE ATT&CK Framework
 
----
+## Career Goal
 
-## 🎯 Career Objective
+I am working toward a Tier 1 SOC Analyst role where I can continue developing my investigation, detection, and incident response skills in a real security operations environment.
 
-My goal is to begin my cybersecurity career as a Tier 1 SOC Analyst where I can apply my technical knowledge, analytical skills, and hands-on security training to detect, investigate, and respond to cybersecurity threats.
-
----
-
-> This portfolio documents my cybersecurity labs, investigations, detections, and incident response exercises as I continue developing practical SOC analyst experience.
+This GitHub will document the projects and labs I complete along the way.
